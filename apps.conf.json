@@ -1,6 +1,12 @@
 {
   "apps": [
     {
+      "name": "盘毂物流协调平台",
+      "title": "pg-wlxt",
+      "name_zh": "盘毂物流协调平台",
+      "url": "http://192.168.17.213:8088"
+    },
+    {
       "name": "programmusic",
       "title": "ProgramMusic",
       "name_zh": "ProgramMusic",
